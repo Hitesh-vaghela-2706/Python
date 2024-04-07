@@ -1,0 +1,5 @@
+A = (2,4,5,6,7,7)
+print(type(A))
+B = A.count(7)
+print(B)
+print(A)
