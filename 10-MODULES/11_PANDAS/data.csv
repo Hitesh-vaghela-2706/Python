@@ -1,0 +1,25 @@
+,USER_ID,MOVIE_ID,MOVIE_TITLE,PRODUCTION_YEAR,GENRES,RATING,Unnamed: 6,Unnamed: 7,GENRES.1,Unnamed: 9
+0,1,4642044,Riot ,2015,Action,8.0,,1.0,action,8.0
+1,2,1925518,The Protector 2 ,2013,Action,5.0,,5.0,suspense,6.0
+2,3,372784,Batman Begins ,2005,Adventure,9.0,,,drama,5.0
+3,4,1390411,In the Heart of the Sea ,2015,Biography,5.0,,,thriller,4.0
+4,5,6306064,Adrift ,2018,Drama,4.0,,,adventures,
+5,6,6306064,Adrift ,2018,Drama,5.0,,,,
+6,7,2719848,Everest ,2015,Thriller,6.0,,,,
+7,8,462504,Rescue Dawn ,2006,War,8.0,,,,
+8,9,1663202,The Revenant ,2015,Western,10.0,,,,
+21,22,2334871,Snatched ,2017,Comedy,,,,,
+22,23,6663582,The Spy Who Dumped Me ,2018,Comedy,6.0,,,,
+23,24,3110958,Now You See Me 2 ,2016,Crime,8.0,,,,
+24,25,3110958,Now You See Me 2 ,2016,Crime,6.0,,,,
+25,26,3381008,Grimsby ,2016,Mystery,8.0,,,,
+26,27,3381008,Grimsby ,2016,Mystery,10.0,,,,
+27,28,1981107,The Young and Prodigious T.S. Spivet ,2013,Family,8.0,,,,
+28,29,2788732,Pete's Dragon ,2016,Fantasy,,,,,
+29,30,448115,Shazam! ,2019,Fantasy,,,,,
+30,31,107362,Last Action Hero ,1993,Fantasy,6.0,,,,
+31,32,448115,Shazam! ,2019,Fantasy,8.0,,,,
+32,33,448115,Shazam! ,2019,Fantasy,8.0,,,,
+33,34,448115,Shazam! ,2019,Fantasy,7.0,,,,
+34,35,93260,Innerspace ,1987,Sci-Fi,6.0,,,,
+35,36,120746,The Mask of Zorro ,1998,Thriller,7.0,,,,
